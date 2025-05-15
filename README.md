@@ -40,7 +40,6 @@ Je suis un ingénieur logiciel passionné par la technologie, le clean code et l
 
 ## 📈 Mes Stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanenraz&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanenraz&layout=compact&theme=radical)
 
 ---
