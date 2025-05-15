@@ -36,7 +36,12 @@ Je suis un ingénieur logiciel passionné par la technologie, le clean code et l
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+### 🌐 Autres compétences  
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=apachespark&logoColor=white)  
+![Artificial Intelligence](https://img.shields.io/badge/IA%20&%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 ---
+
 
 ## 📈 Mes Stats GitHub
 
