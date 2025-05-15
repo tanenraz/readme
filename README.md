@@ -1,43 +1,55 @@
-# 👋 Salut, je suis [Tanen] !
+# 👋 Salut, je suis Tanen !
 
-🎯 **Software Engineer Passionné** | 💻 **Créateur de solutions élégantes et efficaces**
+🎯 **Software Engineer Passionné** | 💻 **Créateur de solutions modernes et robustes**
 
 ---
 
 ## 🚀 À propos de moi
 
-Je suis un développeur logiciel passionné par la technologie, l'innovation et le code propre. J’aime créer des applications qui ont un impact réel, apprendre en continu, et relever des défis techniques.
+Je suis un ingénieur logiciel passionné par la technologie, le clean code et la résolution de problèmes. J’aime construire des applications performantes, évolutives et élégantes.
 
-- 🌱 J’apprends actuellement : [Javacript,python,JAVA,ReactJS,SpringBoot,IA,...]
-- 💬 Demande-moi n'importe quoi sur : Non je déconne mais j'apprend vite
-- 📫 Contact : [andrianinatantely@gmail.com] | [Portfolio](https://portfolio-tanenraz.vercel.app/)
-
----
-
-## 🛠️ Compétences techniques
-
-**Langages :**  
-![Langage](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw0g4k-rWfD5fW5deH582qON&ust=1747375809251000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiPo6XopI0DFQAAAAAdAAAAABAE)  
-![Langage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-django-scikit-learn-javascript-programming-5474125%2F&psig=AOvVaw1Xqj9qD8VtAyRvbLurZYNy&ust=1747375858534000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCPrcDopI0DFQAAAAAdAAAAABAW)
-
-**Frameworks / Outils :**  
-![Framework](https://img.shields.io/badge/-Framework1-informational?style=flat&logo=framework1&logoColor=white&color=blue)  
-![Outil](https://img.shields.io/badge/-Outil1-informational?style=flat&logo=outil1&logoColor=white&color=blue)
+- 🔭 Je travaille actuellement sur : des projets web fullstack & des microservices
+- 🌱 J’apprends actuellement : l’architecture cloud & les bonnes pratiques DevOps
+- 💬 Ask me about : React, Node.js, Django, SpringBoot, ou les API REST
+- 📫 Contact : [email@email.com] | [LinkedIn](https://linkedin.com/in/tonprofil)
 
 ---
 
-## 📈 Stats GitHub
+## 🛠️ Stack Technique
 
-![Tes stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)
+### 👨‍💻 Langages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
+### 🚀 Frameworks & Librairies  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![JEE](https://img.shields.io/badge/JEE-%23007396?style=flat&logo=java&logoColor=white)
+
+### 🛠️ Outils & Environnement  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 Mes Stats GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)
 
 ---
 
-## ⚡ Fun Fact
+## ✨ Fun Fact
 
-> “Un bon développeur est quelqu’un qui regarde des bugs… comme des opportunités déguisées.” 🐛✨
+> "Un bug, c'est juste une fonctionnalité inattendue." 🐞
 
 ---
 
-Merci de visiter mon profil ! ⭐ N'hésite pas à me suivre ou à me contacter 🙌
+Merci de visiter mon profil ! ⭐  
+N'hésite pas à me suivre ou à me contacter 🙌
