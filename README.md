@@ -8,7 +8,7 @@
 
 Je suis un développeur logiciel passionné par la technologie, l'innovation et le code propre. J’aime créer des applications qui ont un impact réel, apprendre en continu, et relever des défis techniques.
 
-- 🌱 J’apprends actuellement : [Javacript,python,JAVA,ReactJS,SpringBoot,IA,...]
+- 🌱 J’apprends actuellement : [Javacript,python,JAVA,ReactJS,SpringBoot,IA,Langage...]
 - 💬 Demande-moi n'importe quoi sur : [Non je déconne mais j'apprend vite]
 - 📫 Contact : [andrianinatantely@gmail.com] | [Portfolio](https://portfolio-tanenraz.vercel.app/)
 
