@@ -10,8 +10,8 @@ Je suis un ingénieur logiciel passionné par la technologie, le clean code et l
 
 - 🔭 Je travaille actuellement sur : des projets web fullstack & des microservices
 - 🌱 J’apprends actuellement : l’architecture cloud & les bonnes pratiques DevOps
-- 💬 Ask me about : React, Node.js, Django, SpringBoot, ou les API REST
-- 📫 Contact : [email@email.com] | [LinkedIn](https://linkedin.com/in/tonprofil)
+- 💬 Ask me about : React, Node.js, Django, SpringBoot, API REST ou l'IA
+- 📫 Contact : [andrianinatantely@gmail.com] | [Portfolio](https://portfolio-tanenraz.vercel.app/)
 
 ---
 
@@ -40,8 +40,8 @@ Je suis un ingénieur logiciel passionné par la technologie, le clean code et l
 
 ## 📈 Mes Stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanenraz&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanenraz&layout=compact&theme=radical)
 
 ---
 
