@@ -8,8 +8,8 @@
 
 Je suis un développeur logiciel passionné par la technologie, l'innovation et le code propre. J’aime créer des applications qui ont un impact réel, apprendre en continu, et relever des défis techniques.
 
-- 🌱 J’apprends actuellement : [Javacript,python,JAVA,ReactJS,SpringBoot,IA,Langage...]
-- 💬 Demande-moi n'importe quoi sur : [Non je déconne mais j'apprend vite]
+- 🌱 J’apprends actuellement : [Javacript,python,JAVA,ReactJS,SpringBoot,IA,...]
+- 💬 Demande-moi n'importe quoi sur : Non je déconne mais j'apprend vite
 - 📫 Contact : [andrianinatantely@gmail.com] | [Portfolio](https://portfolio-tanenraz.vercel.app/)
 
 ---
@@ -17,8 +17,8 @@ Je suis un développeur logiciel passionné par la technologie, l'innovation et 
 ## 🛠️ Compétences techniques
 
 **Langages :**  
-![Langage](https://img.shields.io/badge/-Langage1-informational?style=flat&logo=langage1&logoColor=white&color=blue)  
-![Langage](https://img.shields.io/badge/-Langage2-informational?style=flat&logo=langage2&logoColor=white&color=blue)
+![Langage](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw0g4k-rWfD5fW5deH582qON&ust=1747375809251000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiPo6XopI0DFQAAAAAdAAAAABAE)  
+![Langage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-django-scikit-learn-javascript-programming-5474125%2F&psig=AOvVaw1Xqj9qD8VtAyRvbLurZYNy&ust=1747375858534000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCPrcDopI0DFQAAAAAdAAAAABAW)
 
 **Frameworks / Outils :**  
 ![Framework](https://img.shields.io/badge/-Framework1-informational?style=flat&logo=framework1&logoColor=white&color=blue)  
