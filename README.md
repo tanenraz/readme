@@ -11,7 +11,8 @@ Je suis un ingénieur logiciel passionné par la technologie, le clean code et l
 - 🔭 Je travaille actuellement sur : des projets web fullstack & des microservices
 - 🌱 J’apprends actuellement : l’architecture cloud & les bonnes pratiques DevOps
 - 💬 Ask me about : React, Node.js, Django, SpringBoot, API REST ou l'IA
-- 📫 Contact : [andrianinatantely@gmail.com] | [Portfolio](https://portfolio-tanenraz.vercel.app/)
+- 📫 Contact : andrianinatantely@gmail.com | [Portfolio](https://portfolio-tanenraz.vercel.app/)
+
 
 ---
 
